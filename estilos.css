@@ -156,3 +156,7 @@ a {
         max-width: 90%;
     }
 }
+
+.greeting{
+    text-align: center;
+}
